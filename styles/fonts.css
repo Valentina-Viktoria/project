@@ -1,0 +1,168 @@
+@font-face {
+    font-family: "BonaNovaSC";
+    src: url("../fonts/BonaNovaSC-Bold.ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    }
+    @font-face {
+    font-family: "BonaNovaSC";
+    src: url("../fonts/BonaNovaSC-Italic.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    }
+    @font-face {
+    font-family: "BonaNovaSC";
+    src: url("../fonts/BonaNovaSC-Regular.ttf");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+    }
+    @font-face {
+        font-family: "DancingScript";
+        src: url("../fonts/DancingScript-Bold.ttf");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+        }
+        @font-face {
+        font-family: "DancingScript";
+        src: url("../fonts/DancingScript-Medium.ttf");
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap;
+        }
+        @font-face {
+        font-family: "DancingScript";
+        src: url("../fonts/DancingScript-Regular.ttf");
+        font-weight: normal;
+        font-style: italic;
+        font-display: swap;
+        }
+        @font-face {
+            font-family:"DancingScript"; 
+            src: url("../fonts/DancingScript-SemiBold.ttf");
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+            }
+            @font-face {
+            font-family: "DancingScript";
+            src: url("../fonts/DancingScript-VariableFont_wght.ttf");
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+            }
+            @font-face {
+            font-family: "JosefinSlab";
+            src: url("../fonts/JosefinSlab-Bold.ttf");
+            font-weight: normal;
+            font-style: italic;
+            font-display: swap;
+            }
+            @font-face {
+                font-family:"JosefinSlab";
+                src: url("../fonts/JosefinSlab-BoldItalic.ttf");
+                font-weight: normal;
+                font-style: normal;
+                font-display: swap;
+                }
+                @font-face {
+                font-family: "JosefinSlab";
+                src: url("../fonts/JosefinSlab-ExtraLight.ttf");
+                font-weight: bold;
+                font-style: normal;
+                font-display: swap;
+                }
+                @font-face {
+                font-family: "JosefinSlab";
+                src: url("../fonts/JosefinSlab-ExtraLightItalic.ttf");
+                font-weight: normal;
+                font-style: italic;
+                font-display: swap;
+                }
+                @font-face {
+                    font-family:"JosefinSlab";
+                    src: url("../fonts/JosefinSlab-Italic-VariableFont_wght.ttf");
+                    font-weight: normal;
+                    font-style: normal;
+                    font-display: swap;
+                    }
+                    @font-face {
+                    font-family: "JosefinSlab";
+                    src: url("../fonts/JosefinSlab-Italic.ttf");
+                    font-weight: bold;
+                    font-style: normal;
+                    font-display: swap;
+                    }
+                    @font-face {
+                    font-family: "JosefinSlab";
+                    src: url("../fonts/JosefinSlab-Light.ttf");
+                    font-weight: normal;
+                    font-style: italic;
+                    font-display: swap;
+                    }
+                    @font-face {
+                        font-family: "JosefinSlab";
+                        src: url("../fonts/JosefinSlab-LightItalic.ttf");
+                        font-weight: normal;
+                        font-style: normal;
+                        font-display: swap;
+                        }
+                        @font-face {
+                        font-family: "JosefinSlab";
+                        src: url("../fonts/JosefinSlab-Medium.ttf");
+                        font-weight: bold;
+                        font-style: normal;
+                        font-display: swap;
+                        }
+                        @font-face {
+                        font-family: "JosefinSlab";
+                        src: url("../fonts/JosefinSlab-MediumItalic.ttf");
+                        font-weight: normal;
+                        font-style: italic;
+                        font-display: swap;
+                        }
+                        @font-face {
+                            font-family:"JosefinSlab" ;
+                            src: url("../fonts/JosefinSlab-Regular.ttf");
+                            font-weight: normal;
+                            font-style: normal;
+                            font-display: swap;
+                            }
+                            @font-face {
+                            font-family: "JosefinSlab";
+                            src: url("../fonts/JosefinSlab-SemiBold.ttf");
+                            font-weight: bold;
+                            font-style: normal;
+                            font-display: swap;
+                            }
+                            @font-face {
+                            font-family: "JosefinSlab";
+                            src: url("../fonts/JosefinSlab-SemiBoldItalic.ttf");
+                            font-weight: normal;
+                            font-style: italic;
+                            font-display: swap;
+                            }
+                            @font-face {
+                                font-family:"JosefinSlab";
+                                src: url("../fonts/JosefinSlab-Thin.ttf");
+                                font-weight: normal;
+                                font-style: normal;
+                                font-display: swap;
+                                }
+                                @font-face {
+                                font-family:"JosefinSlab";
+                                src: url("../fonts/JosefinSlab-ThinItalic.ttf");
+                                font-weight: bold;
+                                font-style: normal;
+                                font-display: swap;
+                                }
+                                @font-face {
+                                font-family: "JosefinSlab";
+                                src: url("../fonts/JosefinSlab-VariableFont_wght.ttf");
+                                font-weight: normal;
+                                font-style: italic;
+                                font-display: swap;
+                                }
